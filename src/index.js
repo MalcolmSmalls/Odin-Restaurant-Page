@@ -1,7 +1,7 @@
-// import { pageLoad } from "./pageload.js"
+import { pageLoad } from "./pageload.js"
 
-import './pageload.js'
+// import './pageload.js'
 
-// pageLoad();
+pageLoad();
 
 // alert('uoo')
